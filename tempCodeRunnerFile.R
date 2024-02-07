@@ -1,1 +1,5 @@
-print(mean(data$marks))
+
+# #Histogram plot
+# hist(data)
+# #box plot
+# boxplot(data)
