@@ -1,0 +1,6 @@
+getwd()
+setwd("/Users/raysi2002/Coding/R-Programming")
+data = read.csv("test.csv")
+print(data)
+meanOfData -> mean(data$marks)
+print(meanOfData)
